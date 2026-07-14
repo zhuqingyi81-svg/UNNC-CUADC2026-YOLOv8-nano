@@ -1,0 +1,10 @@
+path: C:/Users/Mercury/OneDrive/Desktop/UNNC CUADC2026/mydata/YOLODataset
+
+train: images/train
+val: images/val
+test:
+
+names:
+    0: bucket2
+    1: bucket
+    2: bucket3
